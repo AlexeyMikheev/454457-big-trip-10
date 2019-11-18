@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Михеев](https://up.htmlacademy.ru/ecmascript/10/user/454457).
-* Наставник: [Евгений Воронин](https://htmlacademy.ru/profile/id245996).
+* Наставник: [Евгений Воронин](https://htmlacademy.ru/profile/id245996)
 
 ---
 
