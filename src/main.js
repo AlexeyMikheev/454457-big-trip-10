@@ -518,7 +518,7 @@ const tripMainInfoContainer = tripMainContainer.querySelector(`.trip-main__trip-
 renderItem(tripMainInfoContainer, createTripTemplate(), `afterbegin`);
 
 const tripMainControlsContainer = tripMainContainer.querySelector(`.trip-main__trip-controls`);
-const tripMainControlsFirstHeaders = tripMainContainer.querySelectorAll(`.visually-hidden`);
+const tripMainControlsFirstHeaders = tripMainContainer.querySelectorAll(`.trip-controls h2`);
 
 if (tripMainControlsFirstHeaders.length > 1) {
   renderItem(tripMainControlsFirstHeaders[0], createMenutemplate(), `afterend`);
